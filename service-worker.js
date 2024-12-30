@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/netgearXS512/precache-manifest.272c861de4e24caa68191b0f7ef3dc3f.js"
+  "/netgearXS512/precache-manifest.06ad541549a5f5f12ae2231728321c20.js"
 );
 
 self.addEventListener('message', (event) => {

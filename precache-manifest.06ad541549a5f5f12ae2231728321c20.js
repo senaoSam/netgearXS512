@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b938d784a40be261b49a7f1ef75ca3a",
+    "revision": "40c7b58de319dc3f398ed964b3931c89",
     "url": "/netgearXS512/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/netgearXS512/static/css/2.25b5eef8.chunk.css"
   },
   {
-    "revision": "f99306ccc8b3c89ffb7b",
+    "revision": "da34fd799d14b247fe32",
     "url": "/netgearXS512/static/css/main.33ca3e07.chunk.css"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/netgearXS512/static/js/2.cdeddc76.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f99306ccc8b3c89ffb7b",
-    "url": "/netgearXS512/static/js/main.0c42bf33.chunk.js"
+    "revision": "da34fd799d14b247fe32",
+    "url": "/netgearXS512/static/js/main.3d3d810e.chunk.js"
   },
   {
     "revision": "8de6526fc7e4529f7c27bb66e5d967d5",
-    "url": "/netgearXS512/static/js/main.0c42bf33.chunk.js.LICENSE.txt"
+    "url": "/netgearXS512/static/js/main.3d3d810e.chunk.js.LICENSE.txt"
   },
   {
     "revision": "b5819cec9c6f902b786d",
